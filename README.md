@@ -27,35 +27,14 @@
 
 *As a coder is to leverage my technical expertise and problem-solving skills to develop efficient and impact software solutions. With a solid foundation in coding and software development, I am committed to creating high-quality applications that meet user needs and contribute to the advancement of technology. I aim to excel in a collaborative environment, continuously learning and adapting to emerging programming languages and tools. Through innovative thinking and dedication, I aspire to be a key contributor in delivering software that enhances user experiences and addresses real-world challenges.*  
   
-<img src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0022.gif" align="center" style="width: 100%" />
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- I am **Tonmoy Mondal**  
-  
-
-- Studying **Aerospace Engineering.**  
-  
-
-- **Coding** is my passion.  
-  
-
-- Fact About Me: I love to code in **Python** more than any other languages. Although I choose to code according to my **Necessities and Dependencies**.  
-
-
-</td><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0022.gif" align="center" style="width: 100%" />
 </div>  
 
-
-</td></tr></table>  
-
 <br/>  
+
+
+
 
 
 ## Languages and Tools  
