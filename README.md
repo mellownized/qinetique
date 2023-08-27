@@ -29,7 +29,7 @@
 - ⚡ Fun fact **Sometimes I loose my temper while coding!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/tonythecattfish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonythecattfish" height="30" width="40" /></a>
 <a href="https://fb.com/qinetique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qinetique" height="30" width="40" /></a>
 <a href="https://instagram.com/i.am.tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.tonmoy" height="30" width="40" /></a>
