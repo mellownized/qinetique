@@ -29,7 +29,7 @@
 
 
 
-###  I KNOW:   
+###  I Know:   
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -98,7 +98,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qinetique&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
