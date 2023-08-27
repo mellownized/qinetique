@@ -100,11 +100,10 @@
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qinetique&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinetique&hide_border=true&layout=compact" align="left" style="width: 50%" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qinetique&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinetique&hide_border=true&layout=compact" align="left" style="width: 50%" />
+</div>
 
 
 
