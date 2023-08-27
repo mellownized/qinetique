@@ -1,35 +1,35 @@
-### **<div align="center">```🙂 I'm Tonmoy M (Qinetique), A passionate programmer from somewhere in the world!```</div>**  
+### **<div align="center"> 🙂 I'm Tonmoy M (Qinetique), A passionate programmer from somewhere in the world! </div>**  
   
 
 
 
-### @ ```A Glance```  
-- ```❓ Ask me about anything related to``` **Python**, **Algorithms**, **Web Technologies**.  
+### @  A Glance   
+-  ❓ Ask me about anything related to  **Python**, **Algorithms**, **Web Technologies**.  
   
 
-- ```🌱 I’m currently learning``` **Rust**, **Scala** & **Go**.  
+-  🌱 I’m currently learning  **Rust**, **Scala** & **Go**.  
   
 
-- ⚡ ```Fun fact:``` **I frequently loose my temper while coding!**  
+- ⚡  Fun fact:  **I frequently loose my temper while coding!**  
   
 
 
 
-### @ ``Overview``  
-### As An Aerospace Engineer:``
+### @  Overview   
+### As An Aerospace Engineer: 
 
-``As an aspiring aerospace engineer, my career objective is to contribute to the design, development, and optimization of cutting-edge aerospace technologies. With a passion for innovation and a strong foundation in engineering principles, I aim to create solutions that push the boundaries of aerospace exploration and contribute to the advancement of space travel and aviation. Through collaborative teamwork and a commitment to excellence, I aspire to play a pivotal role in shaping the future of aerospace engineering while continually expanding my knowledge and expertise in this dynamic field.``
+ As an aspiring aerospace engineer, my career objective is to contribute to the design, development, and optimization of cutting-edge aerospace technologies. With a passion for innovation and a strong foundation in engineering principles, I aim to create solutions that push the boundaries of aerospace exploration and contribute to the advancement of space travel and aviation. Through collaborative teamwork and a commitment to excellence, I aspire to play a pivotal role in shaping the future of aerospace engineering while continually expanding my knowledge and expertise in this dynamic field. 
 
 **As A Coder:**
 
-``As a coder is to leverage my technical expertise and problem-solving skills to develop efficient and impact software solutions. With a solid foundation in coding and software development, I am committed to creating high-quality applications that meet user needs and contribute to the advancement of technology. I aim to excel in a collaborative environment, continuously learning and adapting to emerging programming languages and tools. Through innovative thinking and dedication, I aspire to be a key contributor in delivering software that enhances user experiences and addresses real-world challenges.`` 🙂  
+ As a coder is to leverage my technical expertise and problem-solving skills to develop efficient and impact software solutions. With a solid foundation in coding and software development, I am committed to creating high-quality applications that meet user needs and contribute to the advancement of technology. I aim to excel in a collaborative environment, continuously learning and adapting to emerging programming languages and tools. Through innovative thinking and dedication, I aspire to be a key contributor in delivering software that enhances user experiences and addresses real-world challenges.  🙂  
   
 
 <br/>  
 
 
 
-### ```I KNOW:```  
+###  I KNOW:   
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -73,7 +73,7 @@
 
 
 
-### ```Let's get connected with each other!```  
+###  Let's get connected with each other!   
 <div align="center">
 <a href="https://github.com/qinetique" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -122,7 +122,7 @@
 
 
 
-### ``Stats``  
+###  Stats   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=qinetique&&style=flat-square" align="center" />
 </div>  
@@ -132,7 +132,7 @@
 
 
 
-### ``Invalid``  
+###  Invalid   
 <div align="center">
             <a href="https://paypal.me/qinetique" target="_blank" style="display: inline-block;">
                 <img
