@@ -16,7 +16,7 @@
 <img src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0022.gif" align="center" style="width: 100%" />
 </div>  
 
-<p align="left"> <a href="https://twitter.com/tonythecattfish" target="blank"><img src="https://img.shields.io/twitter/follow/tonythecattfish?logo=twitter&style=for-the-badge" alt="tonythecattfish" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tonythecattfish" target="blank"><img src="https://img.shields.io/twitter/follow/tonythecattfish?logo=twitter&style=for-the-badge" alt="tonythecattfish" /></a> </p>
 
 - 🌱 I’m currently learning **Scala, Rust, Go**
 
