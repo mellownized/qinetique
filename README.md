@@ -118,7 +118,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+
 
 
 
@@ -128,7 +128,7 @@
 </div>  
 
 
-</td><td valign="top" width="50%">
+
 
 
 
@@ -159,7 +159,6 @@
                 />
             </a></div>
 
-</td></tr></table>  
 
 <br/>  
 
