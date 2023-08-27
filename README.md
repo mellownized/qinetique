@@ -44,24 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qinetique&show_icons=true&theme=onedark&locale=en" alt="qinetique" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qinetique&theme=dark" alt="qinetique" /></p>
-
-
-
-### Thanks For Coming Here!  
-**As An Aerospace Engineer:**
-
-*As an aspiring aerospace engineer, my career objective is to contribute to the design, development, and optimisation of cutting-edge aerospace technologies. With a passion for innovation and a strong foundation in engineering principles, I aim to create solutions that push the boundaries of aerospace exploration and contribute to the advancement of space travel and aviation. Through collaborative teamwork and a commitment to excellence, I aspire to play a pivotal role in shaping the future of aerospace engineering while continually expanding my knowledge and expertise in this dynamic field.*
-
-**As A Coder:**
-
-*As a coder is to leverage my technical expertise and problem-solving skills to develop efficient and impact software solutions. With a solid foundation in coding and software development, I am committed to creating high-quality applications that meet user needs and contribute to the advancement of technology. I aim to excel in a collaborative environment, continuously learning and adapting to emerging programming languages and tools. Through innovative thinking and dedication, I aspire to be a key contributor in delivering software that enhances user experiences and addresses real-world challenges.*  
-  
-<div align="center">
-<img src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0022.gif" align="center" style="width: 100%" />
-</div>  
-
-<br/>  
-
-
-
-<br />
