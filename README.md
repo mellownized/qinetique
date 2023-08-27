@@ -103,5 +103,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinetique&hide_border=true&layout=compact" align="left" style="width: 60%" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinetique&hide_border=true&layout=compact" align="left" style="width: 60%" />
 </div>
