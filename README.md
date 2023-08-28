@@ -15,10 +15,12 @@
 - ⚡  Fun fact:  **I frequently loose my temper while coding!**  
   
 
-<img alt = "coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtZ2dxZXZ5YnR6dzczcml0d2FudXJoY3lsbXd5cWtodXF4aHZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align = "center"/>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=qinetique&&style=flat-square" align="center" />
+<img alt = "coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtZ2dxZXZ5YnR6dzczcml0d2FudXJoY3lsbXd5cWtodXF4aHZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align = "center"/>
 </div>  
+
+
 ### @  Overview   
 ### As An Aerospace Engineer: 
 
