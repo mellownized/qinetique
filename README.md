@@ -3,7 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=qinetique&&style=flat-square" align="center" />
 </div>  
 
-
+<div align="right">
+<img alt = "coding" width = " 400 " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtZ2dxZXZ5YnR6dzczcml0d2FudXJoY3lsbXd5cWtodXF4aHZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align = "center"/>
+</div>  
 
 ### @  A Glance   
 -  ❓ Ask me about anything related to  **Python**, **Algorithms**, **Web Technologies**.  
@@ -16,9 +18,7 @@
   
 
 
-<div align="center">
-<img alt = "coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtZ2dxZXZ5YnR6dzczcml0d2FudXJoY3lsbXd5cWtodXF4aHZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align = "center"/>
-</div>  
+
 
 
 ### @  Overview   
